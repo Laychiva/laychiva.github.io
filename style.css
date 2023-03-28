@@ -34,7 +34,7 @@ header {
   padding: 2em;
   text-align: center;
 /*   background-color: rgba(0, 0, 0, 0.5); dark overlay */
-  background-image: url('./img/bg1.jpeg');
+  background-image: url('./img/bg.jpg');
   background-size: cover;
   background-position: fixed;
   color: white;
